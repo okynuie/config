@@ -10,7 +10,8 @@ set ruler
 set hlsearch
 
 syntax on
-colorscheme monokai
+set background=dark
+colorscheme monokai2
 
 "set rtp+=~/.vim/bundle/Vundle.vim
 
